@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Vignesh98485)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@garrapallyvignesh)
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=vigneshgarrapally.vigneshgarrapally)
+## Glad to see you here! &nbsp;
 
 As a dedicated Data Scientist, I thrive on the challenges that come with programming and technology. Self-taught and ever-curious, I'm constantly on the hunt for new learning opportunities that allow me to push the boundaries of what I know. My enthusiasm for tackling complex projects is matched only by my passion for discovering and mastering cutting-edge technologies. If there's a challenge that involves data and code, you can bet I'm interested
 
