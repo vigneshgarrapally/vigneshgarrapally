@@ -14,5 +14,3 @@ As a dedicated Data Scientist, I thrive on the challenges that come with program
 📈 **My GitHub Stats:**
 
 [![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshgarrapally)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshgarrapally)](https://github.com/anuraghazra/github-readme-stats)
